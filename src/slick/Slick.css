@@ -1,0 +1,22 @@
+
+.slick-slide{
+    margin: 0 10px;
+}
+.slick-list{
+    margin:0 -10px;
+}
+img{
+    object-fit: cover;
+    transition: all 1.1s;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    
+}
+img:hover{
+    transform: scale(0.9);
+
+}
+.mnb{
+    margin-bottom: 200px;
+}

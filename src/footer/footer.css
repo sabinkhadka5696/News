@@ -1,0 +1,59 @@
+
+.grid {
+    margin-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #000000;
+    color: white;
+}
+.grid-content {
+    font-size: 15px;
+    padding-top: 40px;
+    color: white;
+}
+.grid-title{
+     font-size: 17px;
+     margin-top: 25px;
+}
+.grid-content > a {
+    font-size: 17px;
+    text-decoration: none;
+    
+}
+.grid-subcontent > a {
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.abc {
+    font-size: 17px;
+    margin-left: -10px;
+    margin-top: 17px;
+    color: white;
+    text-decoration: None;
+}
+.apple{
+    border: 1px solid rgba(128, 128, 128, 0.732);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 70px;
+    margin-bottom: -50px;
+    border-radius: 10px;
+    height: 70px;
+}
+.apple > i{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.apple-title {
+    position: relative;
+    bottom: 36px;
+    left: 80px;
+    font-size: 13px;
+    color: rgba(128, 128, 128, 0.964);
+}
+.apple-subtitle {
+    position: relative;
+    bottom: 50px;
+    left: 80px;
+    font-size: 14px;
+}
